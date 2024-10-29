@@ -1,0 +1,9 @@
+.appBtn{
+    padding: 4px 12px;
+    font-size: 0.8em;
+    border: 2px solid black;
+    background-color: skyblue;
+    font-weight: 600;
+    display: block;
+    cursor: pointer;
+}
